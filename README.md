@@ -1,1 +1,1 @@
-This is my first project.
+In this project I'm trying to make a website that contains some food recipes.
