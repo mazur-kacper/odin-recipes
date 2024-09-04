@@ -1,0 +1,9 @@
+h1 {
+  font-weight: bold;
+  color: red;
+}
+
+ul li {
+  background-color: yellow;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
